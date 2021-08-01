@@ -1,0 +1,23 @@
+.caja {
+  background-color: darkgrey;
+  margin: 10px;
+  padding: 8px;
+}
+.title-1 {
+  color: red;
+}
+.title-2 {
+  color: cornflowerblue;
+}
+#title3 {
+  color: cyan;
+}
+h2 {
+  color: blueviolet;
+}
+h3 {
+  color: blue;
+}
+h4 {
+  color: chocolate;
+}
