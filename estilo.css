@@ -7,7 +7,7 @@
   color: red;
 }
 .title-2 {
-  color: cornflowerblue;
+  color: black
 }
 #title3 {
   color: cyan;
@@ -21,3 +21,14 @@ h3 {
 h4 {
   color: chocolate;
 }
+.title-4{
+  color:coral
+}
+h5{
+  color:royalblue
+}
+h6{
+  color:green
+}
+
+
